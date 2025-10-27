@@ -1,4 +1,3 @@
-'''gestion d'etat civil'''
 <img width="1919" height="1009" alt="I7" src="https://github.com/user-attachments/assets/8a5f8ac5-766d-4481-b1f3-0fc82b53b3db" />
 <img width="1919" height="1004" alt="i6" src="https://github.com/user-attachments/assets/8d1266d3-f016-4f99-bb0b-9adfcc26a038" />
 <img width="939" height="593" alt="i5" src="https://github.com/user-attachments/assets/63424c0f-2cdb-431d-bfae-b64034133cff" />
